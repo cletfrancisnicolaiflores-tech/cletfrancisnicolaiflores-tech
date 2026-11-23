@@ -7,7 +7,7 @@ I'm a **Bachelor of Science in Information Technology** student at **New Era Uni
 ### 💼 Work Experience
 * **Customer Advocate** — Concentrix *(Sep 2026 – Present)*
 * **Chat Support** — Teleperformance *(Oct 2025 – Jan 2026)*
-* **Tech Support** — Concentrix *(Dec 2024 – Sep 2025)*
+* **Technical Support** — Concentrix *(Dec 2024 – Sep 2025)*
 * **Fraud Analyst** — Alorica *(Jun 2024 – Aug 2024)*
 
 ### 🎓 Education
