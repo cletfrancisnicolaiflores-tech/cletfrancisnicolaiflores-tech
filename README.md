@@ -22,17 +22,12 @@ New Era University
 - C
 - JavaScript
 
-**Database Management**
+**Databases**
 - IBM Db2
 - SQL
 - Entity-Relationship Mapping
 
-**Cloud Computing**
-- Oracle Cloud Infrastructure (OCI)
-- Infrastructure as a Service (IaaS)
-- Cloud Computing Fundamentals
-
-**Tools and Technologies**
+**Tools**
 - HTML
 - Eclipse
 - Jaspersoft Studio
