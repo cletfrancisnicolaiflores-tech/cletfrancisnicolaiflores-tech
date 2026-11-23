@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Francis Nicolai Clet
+# Hi there! I'm Francis Nicolai Clet
 
 ### BS Information Technology Student | Customer Service Professional | Aspiring IT Professional
 
