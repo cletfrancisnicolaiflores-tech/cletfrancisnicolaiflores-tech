@@ -1,5 +1,7 @@
 # Hi, I'm Francis Nicolai Flores Clet 👋
 
+#### About Me: 🚀
+
 I'm a **Bachelor of Science in Information Technology** student at **New Era University** with hands-on industry experience in technical support, fraud analysis, and customer advocacy. I combine real-world troubleshooting and analytical problem-solving with a strong foundation in backend development, cloud infrastructure, and relational database design.
 
 ---
